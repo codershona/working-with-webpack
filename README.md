@@ -40,6 +40,7 @@
 ```
     - check gitignore file ;
     - run : npm init ;
+    - run this: npm install --save-dev webpack webpack-dev-server ;
     - 
 
 
