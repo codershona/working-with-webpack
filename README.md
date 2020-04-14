@@ -41,6 +41,10 @@
     - check gitignore file ;
     - run : npm init ;
     - run this: npm install --save-dev webpack webpack-dev-server ;
+    
+    * Installing Production Dependencies : npm install --save react react-dom react-router-dom ;
+
+    - run this : npm install ;
     - 
 
 
