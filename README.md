@@ -39,6 +39,7 @@
 
 ```
     - check gitignore file ;
+    - run : npm init ;
     - 
 
 
