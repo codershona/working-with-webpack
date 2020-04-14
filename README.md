@@ -38,6 +38,7 @@
 ### Project & npm setup:
 
 ```
+    - check gitignore file ;
     - 
 
 
