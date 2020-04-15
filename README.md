@@ -65,7 +65,7 @@
 
     - Production workflow : npm run build:prod ;
 
-    - Visit : localhost:8080 to see the page
+    - npm start and Visit : localhost:8080 to see the page
 
 
 
