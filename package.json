@@ -13,6 +13,7 @@
   },
   "author": "",
   "license": "ISC",
+  "browserslist": "> 1%, last 2 versions",
   "bugs": {
     "url": "https://github.com/codershona/working-with-webpack/issues"
   },
@@ -24,6 +25,9 @@
     "@babel/preset-react": "^7.9.4",
     "@babel/preset-stage-2": "^7.8.3",
     "babel-loader": "^8.1.0",
+    "css-loader": "^3.5.2",
+    "postcss-loader": "^3.0.0",
+    "style-loader": "^1.1.3",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"

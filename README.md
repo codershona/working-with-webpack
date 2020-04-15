@@ -49,9 +49,13 @@
     - So, run : npm install --save-dev webpack-cli ;
     - Then run again : npm start (but again showing errors) ;
     - In this case, we need to create webpack.config.js file to configuration our package ;
-    
+
     - then run this: npm install --save-dev @babel/core @babel/preset-env @babel/preset-react @babel/preset-stage-2 babel-loader @babel/plugin-proposal-class-properties ;
 
+    - Loading CSS File : run this --->  npm install --save-dev style-loader css-loader ;
+
+    - Then run this : npm install --save-dev postcss-loader ;
+    - Then run this : npm install --save-dev autoprefixer ;
     - 
 
 
