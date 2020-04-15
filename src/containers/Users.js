@@ -15,4 +15,4 @@ class Users extends Component {
 }
 
 
-export default Pizza;
+export default Users;
