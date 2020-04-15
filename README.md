@@ -64,7 +64,8 @@
     - Run this : npm install --save-dev file-loader ;
 
     - Production workflow : npm run build:prod ;
-    
+
+    - Visit : localhost:8080 to see the page
 
 
 
