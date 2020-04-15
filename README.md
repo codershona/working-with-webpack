@@ -56,7 +56,15 @@
 
     - Then run this : npm install --save-dev postcss-loader ;
     - Then run this : npm install --save-dev autoprefixer ;
+
+    - Loading Inages & Injecting into HTML Page : npm install --save-dev url-loader ;
+
+    - Run this : npm install --save-dev html-webpack-plugin ;
+
+    - Run this : npm install --save-dev file-loader ;
+
     - 
+
 
 
 ```
