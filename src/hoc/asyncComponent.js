@@ -9,7 +9,7 @@ const asyncComponent = (importComponent) => {
         componentDidMount () {
             importComponent()
             .then(cmp => {
-                this.setState({componet: cmp.default});
+                this.setState({component: cmp.default});
 
             });
 
