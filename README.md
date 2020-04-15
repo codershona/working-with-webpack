@@ -38,7 +38,35 @@
 ### Project & npm setup:
 
 ```
-    - 
+    - check gitignore file ;
+    - run : npm init ;
+    - run this: npm install --save-dev webpack webpack-dev-server ;
+    
+    * Installing Production Dependencies : npm install --save react react-dom react-router-dom ;
+
+    - run this : npm install ;
+    - if you run : npm start  it will show errors;
+    - So, run : npm install --save-dev webpack-cli ;
+    - Then run again : npm start (but again showing errors) ;
+    - In this case, we need to create webpack.config.js file to configuration our package ;
+
+    - then run this: npm install --save-dev @babel/core @babel/preset-env @babel/preset-react @babel/preset-stage-2 babel-loader @babel/plugin-proposal-class-properties ;
+
+    - Loading CSS File : run this --->  npm install --save-dev style-loader css-loader ;
+
+    - Then run this : npm install --save-dev postcss-loader ;
+    - Then run this : npm install --save-dev autoprefixer ;
+
+    - Loading Inages & Injecting into HTML Page : npm install --save-dev url-loader ;
+
+    - Run this : npm install --save-dev html-webpack-plugin ;
+
+    - Run this : npm install --save-dev file-loader ;
+
+    - Production workflow : npm run build:prod ;
+
+    - npm start and Visit : localhost:8080 to see the page
+
 
 
 ```
